@@ -13,7 +13,7 @@
 	</head>
 		<body>
 			
-<?php include 'navigation.php'; ?>
+<?php include '../resources/navigation.php'; ?>
 
 <div class="alert alert-dark" role="alert">
   Check out our menu!
@@ -33,7 +33,7 @@
 <img src="img/lamb.jpg" alt="lamb curry" class="center"/>
 <img src="img/thali.jpg" alt="thali" class="center"/>
 
-<?php include 'footer.php'; ?>
+<?php include '../resources/footer.php'; ?>
  
     </div>
 </div>
