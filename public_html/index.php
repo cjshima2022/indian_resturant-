@@ -34,7 +34,7 @@
 <img src="img/thali.jpg" alt="thali" class="center"/>
 
 <?php include 'footer.php'; ?>
-
+ 
     </div>
 </div>
 
